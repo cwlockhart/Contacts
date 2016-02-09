@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="friends_title">Friends</string>
+    <string name="detail_title">Friend Details</string>
+    <string name="statuses_title">Statuses:</string>
+</resources>
